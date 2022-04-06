@@ -8,6 +8,7 @@
  📫 How to reach me:[Linkedin](https://www.linkedin.com/in/kunal-budhiraja-994a18136)<br />
  ⚡ Fun fact: Origi is G.O.A.T. 
 
+## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  
