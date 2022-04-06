@@ -20,3 +20,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p>
+
+## 📊 My Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunallfc&theme=radical)
